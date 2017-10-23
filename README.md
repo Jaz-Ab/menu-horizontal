@@ -12,7 +12,7 @@ En este trabajo de aplica lo aprendido sobre **display**, **float**, entres otra
 
 ## Muestra del trabajo
 
-![](pictures/avatar.png)
+![](assets/images/menu-horizontal.png)
 
 `Nota:`
 
